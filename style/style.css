@@ -1,0 +1,10 @@
+h2 {
+    background-color: yellow;
+    color: blueviolet;
+}
+
+body {
+    background-image: url("../images/fundo.gif");
+    background-repeat: repeat-y;
+    background-attachment: scroll;
+}
